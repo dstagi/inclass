@@ -1,0 +1,9 @@
+.progress {
+    height: 25vh;
+    border-radius: 100px;
+    background: black;
+}
+
+body {
+    background: black;
+}

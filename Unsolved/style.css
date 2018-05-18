@@ -1,0 +1,20 @@
+nav {
+    background: orangered;
+}
+
+section {
+    width: 50%;
+}
+
+#caro {
+    width: 50%;
+    margin:auto;
+}
+
+.carousel-item {
+    width: 50%;
+}
+
+.caro {
+    width: 500px;
+}
